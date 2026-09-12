@@ -1,2 +1,3 @@
 # BUDT748
-This repository is for practicing the GitHub Flow.
+
+Hi, this is Varshini. I'm pursuing my masters in Info systems and AI. This is for my assignment. 
